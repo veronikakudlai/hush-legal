@@ -3,7 +3,7 @@
 [Русский](../)
 
 **Effective date:** [to be added before publication]  
-**Developer and privacy contact:** [developer name and email address]
+**Developer and privacy contact:** [developer name to be added]; hush.ios.support@gmail.com
 
 ### 1. Introduction
 
@@ -84,4 +84,4 @@ Where required by law or platform rules, we will provide appropriate notice of m
 
 For questions about this Policy or HUSH, please contact the developer:
 
-**Contact:** [email address or public support page].
+**Contact:** hush.ios.support@gmail.com.
