@@ -3,7 +3,7 @@
 [Русский](../)
 
 **Effective date:** [to be added before publication]  
-**Developer and privacy contact:** [developer name to be added]; hush.ios.support@gmail.com
+**Privacy contact:** hush.ios.support@gmail.com
 
 ### 1. Introduction
 
