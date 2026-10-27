@@ -2,7 +2,7 @@
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
-**Tanggal berlaku:** [diisi sebelum publikasi]  
+**Tanggal berlaku:** 30 Oktober 2026  
 **Kontak terkait privasi:** hush.ios.support@gmail.com
 
 ### 1. Pendahuluan
