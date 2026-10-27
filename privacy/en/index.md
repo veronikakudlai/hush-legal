@@ -1,6 +1,6 @@
 # HUSH Privacy Policy
 
-[Русский](../)
+[Русский](../) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
 **Effective date:** [to be added before publication]  
 **Privacy contact:** hush.ios.support@gmail.com

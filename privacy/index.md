@@ -1,6 +1,6 @@
 # Политика конфиденциальности HUSH
 
-[English](en/)
+[English](en/) · [Español](es/) · [Italiano](it/) · [ไทย](th/) · [Bahasa Indonesia](id/) · [Ελληνικά](el/) · [Deutsch](de/)
 
 **Дата вступления в силу:** [указать перед публикацией]  
 **Контакт для обращений:** hush.ios.support@gmail.com
