@@ -2,7 +2,7 @@
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
-**Data di entrata in vigore:** [da inserire prima della pubblicazione]  
+**Data di entrata in vigore:** 30 ottobre 2026  
 **Contatto per questioni relative alla privacy:** hush.ios.support@gmail.com
 
 ### 1. Informazioni generali
