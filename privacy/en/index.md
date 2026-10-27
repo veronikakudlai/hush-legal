@@ -2,7 +2,7 @@
 
 [Русский](../) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/) · [Deutsch](../de/)
 
-**Effective date:** [to be added before publication]  
+**Effective date:** 30 October 2026  
 **Privacy contact:** hush.ios.support@gmail.com
 
 ### 1. Introduction
