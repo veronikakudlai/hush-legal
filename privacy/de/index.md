@@ -2,7 +2,7 @@
 
 [Русский](../) · [English](../en/) · [Español](../es/) · [Italiano](../it/) · [ไทย](../th/) · [Bahasa Indonesia](../id/) · [Ελληνικά](../el/)
 
-**Gültig ab:** [vor der Veröffentlichung ergänzen]  
+**Gültig ab:** 30. Oktober 2026  
 **Kontakt für Datenschutzanfragen:** hush.ios.support@gmail.com
 
 ### 1. Allgemeines
